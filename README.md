@@ -4,6 +4,6 @@ The Rockbuster Stealth Data Analysis Project is a CareerFoundry Data Analytics c
 
 ## Supporting Documentation
 
-- [Rockbuster Project Brief](./Rockbuster%20Stealth%20Data%20Analysis%20Project%20Brief.pdf)
-- [Data Dictionary](./Rockbuster%20Stealth%20Data%20Analysis%20Project%20Data%20Dictionary.pdf)
+- [Rockbuster Project Brief](./Supporting_Documentation/Rockbuster%20Stealth%20Data%20Analysis%20Project%20Brief.pdf)
+- [Data Dictionary](./Supporting_Documentation/Rockbuster%20Stealth%20Data%20Analysis%20Project%20Data%20Dictionary.pdf)
 - [Final Tableau Presentation](https://public.tableau.com/app/profile/bert.pearce/viz/BertP-Achievement3Presentation/RockbusterPresentation)

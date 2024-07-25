@@ -4,6 +4,6 @@ The Rockbuster Stealth Data Analysis Project is a CareerFoundry Data Analytics c
 
 ## Supporting Documentation
 
-- [Rockbuster Project Brief](./Rockbuster Stealth Data Analysis Project Brief.pdf)
+- [Rockbuster Project Brief](./Rockbuster%20Stealth%20Data%20Analysis%20Project%20Brief.pdf)
 - Data Dictionary
 - Final Presentation

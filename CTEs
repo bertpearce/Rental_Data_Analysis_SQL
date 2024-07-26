@@ -1,4 +1,4 @@
-# Query 1: Find the average amount paid by the top 5 customers using a CTE.
+/* Query 1: Find the average amount paid by the top 5 customers using a CTE.*/
 
 WITH 
 	top_10_cities_cte AS 
